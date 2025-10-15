@@ -3,3 +3,5 @@ imagehash
 matplotlib
 pgvector
 psycopg[binary]
+
+# Update: 2025-10-15
